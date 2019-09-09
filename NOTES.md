@@ -52,9 +52,33 @@
 
   # Pixel Positions 
    - Aspen: Write tests 
-   - Lucy: Location Maps and Page Games (ex: Ice Caves, daily events and random event)
+   - Lucy: Location Maps and Page Games (ex: Ice Caves, daily events and random event), adoption/orphanage/feed
    - Hal: ??????? & games
    - Katie: Games (TYPING TERROR) & overall lore
    - Mari: All the fabulous art!!
+
+
+# 1.0 MVP Goals
+- Login
+- Signup
+- 5 pets to start
+- One specific area map 
+- One JavaScript Game (Typing Terror)
+- Arcade Landing Page
+- Overworld map with notices for unavailable lands
+- Basic lore of the Pixel Pets
+- News Carousel 
+- One shop
+- Pixel Point system
+- User show page with inventory, pets & pals 
+- Pet adoption system
+- Pet information pages
+- Home page 
+- About us
+- Contact Page
+- User agreement 
+- Privacy policy 
+- Pet Hunger level
+- 10 food items
 
    

@@ -61,7 +61,7 @@
 # 1.0 MVP Goals
 - Login
 - Signup
-- 5 pets to start
+- 5 pets to start with 4 color schemes
 - One specific area map 
 - One JavaScript Game (Typing Terror)
 - Arcade Landing Page

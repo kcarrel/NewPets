@@ -49,3 +49,12 @@
   - title
   - content
   - image
+
+  # Pixel Positions 
+   - Aspen: Write tests 
+   - Lucy: Location Maps and Page Games (ex: Ice Caves, daily events and random event)
+   - Hal: ??????? & games
+   - Katie: Games (TYPING TERROR) & overall lore
+   - Mari: All the fabulous art!!
+
+   
